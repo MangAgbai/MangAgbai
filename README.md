@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps/Cloud related activities
 - 🌱 For me, Everyday is a day to learn and improve.
 - 💞️ I’m looking to collaborate on projets that relate to DevOps and the microservices architecture.
-- 📫 You can reach me using my mail --mangagbaichiagoziem@gmail.com
+- 📫 You can reach me using my mail mangagbaichiagoziem@gmail.com
 - 😄 Pronouns: HE/HIM.
 - ⚡ Fun fact: ...
 
