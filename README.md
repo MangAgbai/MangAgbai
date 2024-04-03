@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MangAgbai
-- 👀 I’m interested in DvOps/Cloud related activities
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Agbai Chiagoziem Mang. A Nigeria DevOps/AWS Engineer
+- 👀 I’m interested in DevOps/Cloud related activities
+- 🌱 For me, Everyday is a day to learn and improve.
 - 💞️ I’m looking to collaborate on projets that relate to DevOps and the microservices architecture.
-- 📫 How to reach me ...
+- 📫 You can reach me using my mail --mangagbaichiagoziem@gmail.com
 - 😄 Pronouns: HE/HIM.
 - ⚡ Fun fact: ...
 
